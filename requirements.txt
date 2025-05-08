@@ -3,7 +3,6 @@ shap
 matplotlib
 xgboost
 flask
-tempfile
 opencv-python
 requests
 pandas
