@@ -4,3 +4,8 @@ matplotlib
 xgboost
 flask
 tempfile
+opencv-python
+requests
+pandas
+numpy
+Pillow
