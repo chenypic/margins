@@ -3,7 +3,7 @@ shap
 matplotlib
 xgboost
 flask
-opencv-python
+opencv-python-headless
 requests
 pandas
 numpy
